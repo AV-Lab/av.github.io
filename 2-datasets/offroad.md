@@ -5,7 +5,7 @@ permalink: /datasets/offroad/
 show_menu: false
 ---
 <img src="/assets/O2DTD_Dataset_Demo_cropped.gif"/>
-<h1 style="text-align:center"> <a href="https://1drv.ms/u/s!As-rscCX5HkvkHXf5vx7BMQ7dMqc?e=NjeVGb/"> Download here </a></h1>
+<h1 style="text-align:center"> <a href="https://drive.google.com/file/d/1A-R5un-S6QiFb4nLzGhCzGB7hdqdrF0-/view"> Download here </a></h1>
 
 
 Autonomous vehicle technologies rely heavily on freespace detection for visual perception and route planning. In the preceding decade, it was demonstrated that freespace detection methods based on deep learning are viable. However, these attempts primarily dealt with urban on-road environments, and few deep learning-based algorithms were developed for free space detection in off-road scenarios. Nevertheless, to our knowledge, no work has been reported for detecting desert freespace due to the absence of relevant datasets and benchmarks. For research purposes, we curated a new dataset named Off-Road Open Desert Trail Detection (O2DTD), which is the first dataset on desert freespace detection. The dataset was collected with six different light conditions (dawn, morning, afternoon, sunset, twilight, and night), containing a total of 5,045 RGB images, as summarized in Table I. Moreover, as can be seen in the attached demo, each image is labeled with three classes consisting of the sky (blue), ground (brown), and trail (gray) regions.
