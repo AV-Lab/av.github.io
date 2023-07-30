@@ -14,7 +14,8 @@ This line of research primarily targets the optimization of planning systems in 
 
 
 ### Publications
-
+- Majid Khonji (2023). "**Approximability and Efficient Algorithms for Constrained Fixed-Horizon POMDPs with Durative Actions**." The Journal of Artificial Intelligence (**AIJ**).
+- Majid Khonji (2023). “**A Fully Polynomial Time Approximation Scheme for Constrained MDPs under Local Transitions**.” IEEE Conference on Decision and Control (**CDC**), Singapore.
 - Majid Khonji, Duoaa Khalifa (2023). “**A Unified Framework for POMDPs with Constraints and Durative Actions**.” The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, US. 
 - Rashid Alyassi, Majid Khonji (2021). “**Dual  Formulation for Chance Constrained Stochastic Shortest Path with Application to Autonomous Vehicle Behavior Planning**.” 60th IEEE conference on Decision and Control (**CDC**), Austin, Texas, US. [[paper](https://arxiv.org/pdf/2302.13115.pdf), [code](https://github.com/AV-Lab/Risk_Aware_ROS_Planner)]
 - Sungkweon Hong, Sang Uk Lee, Xin Huang, Majid Khonji, Rashid Alyassi, Brian C. Williams (2021). “**An Anytime Algorithm for Chance Constrained Stochastic Shortest Path Problems and Its Application to Aircraft Routing**.” IEEE International Conference on Robotics and Automation (**ICRA**), Xi’an, China. [[paper](https://dspace.mit.edu/handle/1721.1/145649)]
@@ -30,7 +31,7 @@ This line of research is dedicated to refining perception and situational awaren
 
 ### Publications
 - [Mohamed Nagy, Majid Khonji, Jorge Dias and Sajid Javed (2023). "**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**." IEEE International Conference on Robotics and Automation (**ICRA**), London, UK.](/research/MOT) [[paper](https://arxiv.org/pdf/2302.14807.pdf)]
-- Hamad AlRemeithi, Fakhreddine Zayer, Jorge Dias, Majid Khonji (2023). “Event Vision for Autonomous Off-Road Navigation.” Artificial Intelligence for Robotics and Autonomous Systems Applications. Studies in Computational Intelligence, vol 1093. Springer, Cham. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-28715-2_8)]
+- Hamad AlRemeithi, Fakhreddine Zayer, Jorge Dias, Majid Khonji (2023). “**Event Vision for Autonomous Off-Road Navigation**.” Artificial Intelligence for Robotics and Autonomous Systems Applications. Studies in Computational Intelligence, vol 1093. Springer, Cham. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-28715-2_8)]
 - [Mustofa Basri, Areg Karapetyan, Bilal Hassan, Majid Khonji, Jorge Dias (2022). “**A Hybrid Deep Learning Approach for Vehicle Wheel Slip Prediction in Off-Road Environments**.” IEEE international symposium on Robotic and Sensors Environments (**ROSE**). Abu Dhabi, UAE.](/research/offroad/) [[paper](https://ieeexplore.ieee.org/document/9977432)]
 - Javed, Sajid, Arif Mahmood, Ihsan Ullah, Thierry Bouwmans, Majid Khonji, Jorge Manuel Miranda Dias, and Naoufel Werghi (2022). "**A Novel Algorithm Based on a Common Subspace Fusion for Visual Object Tracking**." **IEEE Access**. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723062)]
 - Christopher J Holder, Majid Khonji, Jorge Dias (2020). “**Input Optimisation Network for Semantic Segmentation of Underexposed Images**.” IEEE International Symposium on Safety, Security, and Rescue Robotics (**SSRR**), Abu Dhabi, UAE. [[paper](https://ieeexplore.ieee.org/document/9292626)]

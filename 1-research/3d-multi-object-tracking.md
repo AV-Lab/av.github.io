@@ -10,6 +10,8 @@ One challenging task for self-driving is ensuring safe navigation in high-dynami
 
 ![image](/1-research/3d-multi-object-tracking-img/tracking-gif.gif)
 
+<br>
 
-[Preprint link](https://arxiv.org/pdf/2302.14807.pdf)
+- Publisher [link](https://ieeexplore.ieee.org/document/10160328).
+- Pre-print [link](https://arxiv.org/pdf/2302.14807.pdf).
 

@@ -17,17 +17,15 @@ layout: home
 <div class="left-column">
   <p class="sum">
   <img src="/assets/img/logo.png" width="90px" class="logo"/>
-    Welcome to the Autonomous Vehicle Lab (AV-Lab) at <a href="https://ku.ac.ae" target="_blank" rel="noopener noreferrer">Khalifa University</a>. Our research focuses on the safe operation of AVs, their integration into intelligent urban environments, and the AI alignment for embodied AI systems, specifically in the context of AVs.
+    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab (AV-Lab), We're dedicated to pioneering research on autonomous vehicle technology, focusing on their secure operation, seamless integration into smart urban ecosystems, and alignment of artificial intelligence with embodied AI systems.
   </p>
   <div class="questions">
-  <p> We address the following pivotal questions: </p>
-    <ul>
-      <li>How can safety be ensured within the core components of the AV decision-making pipeline?</li>
-      <li>How can AV components effectively exchange and interpret uncertainties from the environment while harnessing Vehicle-to-Everything (V2X) technology for multi-agent solutions?</li>
-      <li>How can decision-making frameworks effectively combine the benefits of machine learning and the rigor of theoretical computer science to create verifiably safe solutions?</li>
-      <li>Can we align AV goals with human values and expectations?
-      </li>
-    </ul>
+  <p>Our research revolves around the following questions:</p>
+  <ul>
+    <li>What strategies can be adopted to guarantee safety within the vital components of the autonomous vehicle's decision-making process?</li>
+    <li>How can multi-agent autonomous vehicles effectively share sensory data and decision-making information, along with inherent uncertainties, by utilizing Vehicle-to-Everything (V2X) technology?</li>
+    <li> How can we design decision-making strategies that offer robust safety assurances through rigorous theoretical validation?</li>
+  </ul>
   </div>
 
 
