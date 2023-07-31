@@ -52,6 +52,13 @@ In addition, he has experience working in the international laboratory, such as 
 Riyadh received his Bachelor of Computer Engineering degree from the University of Wollongong in Dubai and is dedicated to advancing the fields of autonomous vehicles, robotics and wireless communications. He is currently working on the development of an autonomous shuttle, this project involves the integration of risk aware planning and perception technologies to create a self-driving vehicle. His previous research work lies in the field of LoRa wireless communication resources optimization and improving channel allocation.
 
 
+**Murad Mebrahtu**
+>Research Associate
+
+<img class="vil" src="/assets/img/Murad_Official.jpg" /> 
+Murad Smreteab received his Bachelor of Science in Computer Engineering from Khalifa University with the highest honors in January 2021, and master’s degree in computer science at Khalifa University in 2023. His main areas of research are Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on pedestrian behavior prediction and safe navigation around pedestrians. Murad is a member of IEEE Eta Kappa Nu at Khalifa university since 2018 and a member of the Golden Key honor society since 2020. Outside the classroom, he occasionally participates in competitions. In 2018, he won second place in the National Huawei ICT competition in UAE and represented the UAE in the middle east ICT competition. Moreover, he won third place in capture the flag group competition in UAE. As an intern, he worked at Gamalearn as Microsoft PowerApps and flow developer. He also has experience as a teaching assistant at khalifa university working as a primary C++ lab instructor and assistant data structures lab instructor. Outside academia  he is actively involved in sports, representing Khalifa university both in football and volleyball.  In his free time he enjoys playing sports and watching movies.
+
+Email: Murad.Mebrahtu(at)ku.ac.ae
 
 
 <hr>
@@ -84,37 +91,6 @@ Email: mohamed.nagy(at)ku.ac.ae
 
 (Student Member, IEEE) received the B.Sc. degree (Hons.) in computer and systems engineering from Minia University, Minia, Egypt, in 2016,  M.Sc in Electrical and Computer Engineering from Khalifa University of Science  and Technology, Abu Dhabi, UAE, in 2023 and he is pursuing his Ph.D degree in Electrical Engineering and Computer Science besides joining the Autonomous Vehicles Lab from Khalifa University, Abu Dhabi, UAE.  He is on a leave from 2021 till now from the college of engineering, Minia University,  Egypt, as a faculty member.  His main research interests include motion planning of autonomous vehicles,  end-to-end autonomous driving, optimization, machine learning, and intelligent transportation systems.
 
-
-**Murad Mebrahtu**
->MSc CS; joined Fall 2021; funded under CIRA-2020-286 
-
-<img class="vil" src="/assets/img/Murad_Official.jpg" /> 
-Murad Smreteab received his Bachelor of Science in Computer Engineering from Khalifa University with the highest honors in January 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on pedestrian behavior prediction and safe navigation around pedestrians. Murad is a member of IEEE Eta Kappa Nu at Khalifa university since 2018 and a member of the Golden Key honor society since 2020. Outside the classroom, he occasionally participates in competitions. In 2018, he won second place in the National Huawei ICT competition in UAE and represented the UAE in the middle east ICT competition. Moreover, he won third place in capture the flag group competition in UAE. As an intern, he worked at Gamalearn as Microsoft PowerApps and flow developer. He also has experience as a teaching assistant at khalifa university working as a primary C++ lab instructor and assistant data structures lab instructor. Outside academia  he is actively involved in sports, representing Khalifa university both in football and volleyball.  In his free time he enjoys playing sports and watching movies.
-
-Email: Murad.Mebrahtu(at)ku.ac.ae
-
-  
-
-**Awet Araia**
->MSc CS; joined Spring 2022; funded KUCARS Theme 1
-
-Awet Mekonen received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Multi agent constrained deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
-
-
-**Abiel Ghebreslasie**
->MSc CS; joined Spring 2022; funded under  KU-KAIST KKJRC-2019-Trans1
-
-<img src="/assets/img/abi.jpeg" />
-Abiel Fissehatsion received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
-
-**Hamad Al Remeithi**
->Part-time MSc ECE; jointed Spring 2022
-
-<img class="vil" src="/assets/img/hamad_profile.png" />
-
-Hamad AlRemeithi received his B.Sc. in Electrical and Electronics Engineering from Khalifa University in 2020. In Spring 2021 he started pursuing a M.Sc. degree in Electrical and Computer Engineering, as a part-time student. Academically, his research interests lie within mobile robotics, deep learning, neuromorphic computing, computer vision, and dabbles a little in cyber-security. He has also completed an research internship in Khalifa University within the Visual Signal Analysis and Processing Lab (VSAP) in Summer 2019 where he conducted experiments related to Deep Learning and Medical Imaging, in addition to UAVs. Currently, Hamad is working in Tawazun Technology and Innovation (TTI) as a R&D Engineer, where he is involved in System Integration activities and the development of Electro-Optical Systems. Previously, Hamad was very active in robotics competitions; he has competed and trained teams in several iterations of World Skills, Emirate Skills, RoboCup, and RoboCup Junior, from the years 2016 to 2021. 
-
-Email: 100042793(at)ku.ac.ae or hamad.alremeithi(at)tawazunti.ae or h.alremeithi21(at)gmail.com
 
 
 **Fatima Kashwani**
