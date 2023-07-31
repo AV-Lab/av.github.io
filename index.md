@@ -17,7 +17,7 @@ layout: home
 <div class="left-column">
   <p class="sum">
   <img src="/assets/img/logo.png" width="90px" class="logo"/>
-    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab (AV-Lab), we're dedicated to pioneering research on autonomous vehicle technology, focusing on their secure operation, seamless integration into smart urban ecosystems, and alignment of artificial intelligence with embodied AI systems.
+    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab (AV-Lab), we're dedicated to pioneering research on autonomous vehicle technology, focusing on the safe operation, seamless integration into smart urban ecosystems, and the alignment of the AI systems with passenger needs.
   </p>
   <div class="questions">
   <p>Our research revolves around the following questions:</p>

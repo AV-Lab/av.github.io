@@ -69,13 +69,13 @@ Email: Murad.Mebrahtu(at)ku.ac.ae
 
 
 **Nadya Abdel Madjid** 
->PhD Student; joined Fall 2022; funded under KUCARS Theme 1
+>TLDR: PhD Student; joined Fall 2022; funded under KUCARS Theme 1
 
 <img class="vil" src="/assets/img/nadya.jpg" />
 Nadya Abdel Madjid received the Bachelor’s Degree in applied mathematics and Computer Science from Lomonosov Moscow State University and the Masters degree through the research and teaching assistant scholarship from the Khalifa University of Science and Technology in 2020. Her Master's thesis research was conducted as a part of the group project aiming on creating an EIT-based flexible tactile sensor to equip robots with sensing capability and artificial skin. Nadya's part was to design an object recognition algorithm for the sensor. In 2021, Nadya joined as a Research Assistant in the division of Computer Science at New York University Abu Dhabi. There her research was focused on Question Answering over Knowledge Graphs. In 2022, Nadya joined Khalifa University as a PhD student and in January 2023, she joined the AV lab. Currently her research is related to multi-agent systems.  
 
 **Mohammed Nagy** 
->PhD Student; joined Spring 2023; funded under KUCARS Theme 1
+>TLDR: PhD Student; joined Spring 2023; funded under KUCARS Theme 1
 
 <img class="vil" src="/assets/img/nagy.png" />
 Mohamed Nagy received a B.S. (2018) in mathematics and computer science from Helwan University, Egypt, and he is recently pursuing an MSc in computer science at Khalifa University, UAE. As part of his career journey, he has been a teaching assistant at Helwan University since 2018 and joined Udacity as a mentor in 2020. His research and teaching concentrate on algorithms, deep learning, and perception for autonomous vehicles. In 2016, he joined the "Mobile Application Launchpad" program by Google, followed by internships and scholarships from leading companies and government entities, namely, Google, Facebook, Udacity, and the Ministry of Communications and Information Technology (MCIT) of Egypt. In 2018, he voluntarily contributed as an Android tutor in One Million Arab Coders, a global initiative, and was cited as one of the best tutors by the Dubai Future Foundation.
@@ -85,7 +85,7 @@ Email: mohamed.nagy(at)ku.ac.ae
 
 
 **Abdulrahman Hamdy Ahmad** 
->PhD Student; joined Spring 2023; funded under KUCARS Theme 1
+>TLDR: PhD Student; joined Spring 2023; funded under KUCARS Theme 1
 
 <img class="vil" src="/assets/img/abdulrahman.png" />
 
@@ -94,7 +94,7 @@ Email: mohamed.nagy(at)ku.ac.ae
 
 
 **Fatima Kashwani**
->MSc CS; joined Fall 2022
+>TLDR: MSc CS; joined Fall 2022
 
 <img src="/assets/img/Fatima.jpg">
 Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with honors at Khalifa University in 2021. She is currently pursuing her Master’s degree in Computer Science at Khalifa University. Her main research areas are artificial intelligence, machine learning, and autonomous vehicles. Her thesis project is focused on teleoperation of unmanned vehicles.
