@@ -86,6 +86,7 @@ layout: home
 
 .left-column {
   flex: 60%;
+  margin-right:1px;
 }
 
 .right-column {
@@ -106,6 +107,7 @@ layout: home
     margin-bottom: 0px;
     color:#838996;
     background-color:#f5f5f5;
+    /*background-color: #101357;*/
     padding: 15px;
     padding-left: 20px;
     padding-right: 25px;
@@ -115,9 +117,13 @@ layout: home
     background-color:#f8f8ff;
 }
 .questions{
-  background-color: #f9fbff ;
-  color:#566968 ;
-  padding: 12px;
+  background-color:#a28089; /* #f9fbff ;*/
+  /*color:#566968 ;*/
+  color:#f9fbff;
+  padding-top: 8px;
+  padding-right:12px;
+  padding-left:12px;
+  padding-bottom:8px;
   
   padding-right: 25px;
 }
