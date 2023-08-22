@@ -75,17 +75,17 @@ Effective communication is foundational to teamwork. By adopting a structured ap
 
 Given the multitude of collaborative documents on Overleaf, adopting a consistent naming convention is paramount. This will aid in swift document retrieval and reduce overlaps:
 
-- **Conferences**: "[<Conference Acronym Year>] <paper title>" 
-    - Example: [ICRA 2024] Constrained Multi-agent POMDP.
+- **Conferences**: `[<Conference Acronym Year>] <paper title>` 
+    - Example: `[ICRA 2024] Constrained Multi-agent POMDP`.
   
 - **Journals**: Replace the conference name with the journal's name.
   
-- **Technical Reports**: Use [Tech Report] instead of the conference name.
+- **Technical Reports**: Use [Tech Report] instead of the conference acronym.
   
 - **Thesis and Proposals**:
-    - PhD: [PhD Thesis <student's first name>].
-    - MSc: [MSc Thesis <student's first name>].
-    - Proposal: [PhD Proposal <student's first name>].
+    - PhD: `[PhD Thesis <student's first name>]`.
+    - MSc: `[MSc Thesis <student's first name>]`.
+    - Proposal: `[PhD Proposal <student's first name>]`.
 
 # Publication Protocols
 
