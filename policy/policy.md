@@ -1,8 +1,8 @@
 ---
-title: AV Lab Policies
+title: AV Lab Policy
 layout: page
 order: 1
-permalink: /policies
+permalink: /policy
 /*show_menu: true*/
 ---
 # Work Environment and Collaboration
