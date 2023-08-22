@@ -17,6 +17,23 @@ permalink: /policies
 
 - **Response Time**: When the Advisor requests materials or information, the expected response time is within 24 hours. If a particular request demands more time due to its complexity or unavailability, it is essential to communicate this to the Advisor immediately. Extensions will be granted based on the specific circumstances.
 
+# Task and Documentation Management
+
+To ensure our research and collaborative efforts are efficient and transparent, timely updating of various documentation is essential:
+
+- **Vacation Schedule**: On the "General" channel, there's a dedicated "Vacation Schedule" tab. Ensure it is updated well in advance, allowing the team to plan accordingly.
+  
+- **Publications Tracking**: Promptly update the "Publications" document whenever a paper is submitted, reviewed, or accepted.
+  
+- **Source Code Management**:
+    - Everyone should utilize Github for code versioning and collaboration.
+    - All source code IP belongs to Khalifa University and should primarily be posted in the AV Lab's official repository.
+    - Before posting code on personal Github accounts, secure approval. This ensures that all intellectual property is protected and aligned with the university's standards.
+  
+- **Accessing Key Links**: The "General" channel on Teams houses tabs with all major links crucial for our projects and collaborations. Always check there first if you're searching for a key link or resource.
+
+By maintaining up-to-date documentation and following the proper channels for code submission, we ensure the integrity, efficiency, and transparency of our collective efforts.
+
 # Task Management in MS Planner
 
 Efficient task management is crucial for a productive team. MS Planner serves as a tool to ensure transparency, accountability, and project progression. The following guidelines aim to streamline our task management process:
