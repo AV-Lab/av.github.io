@@ -17,11 +17,13 @@ permalink: /policy
 
 - **Response Time**: When the Advisor requests materials or information, the expected response time is within 24 hours. If a particular request demands more time due to its complexity or unavailability, it is essential to communicate this to the Advisor immediately. Extensions will be granted based on the specific circumstances.
 
-# Task and Documentation Management
+# Documentation and Version Control
 
 To ensure our research and collaborative efforts are efficient and transparent, timely updating of various documentation is essential:
 
 - **Vacation Schedule**: On the "General" channel, there's a dedicated "Vacation Schedule" tab. Ensure it is updated well in advance, allowing the team to plan accordingly.
+  
+- **Equipment Tracking**: If a staff member or student borrows any equipment or item, the engineer in charge of inventory must be informed. This allows for accurate documentation and tracking of lab resources.
   
 - **Publications Tracking**: Promptly update the "Publications" document whenever a paper is submitted, reviewed, or accepted.
   
@@ -33,6 +35,19 @@ To ensure our research and collaborative efforts are efficient and transparent, 
 - **Accessing Key Links**: The "General" channel on Teams houses tabs with all major links crucial for our projects and collaborations. Always check there first if you're searching for a key link or resource.
 
 By maintaining up-to-date documentation and following the proper channels for code submission, we ensure the integrity, efficiency, and transparency of our collective efforts.
+
+
+# Publication Protocols
+
+Our publications reflect the quality and dedication of our research. Following these protocols ensures proper acknowledgment and maintains the academic integrity of our work.
+
+- **Collaborative Editing**: Prior to publication, co-authors must have access to the live version of the LaTeX source code (either on Overleaf or similar platforms) at least two weeks in advance. Instead of sharing only a backup, provide the live, editable version. Use Overleaf's built-in version control to manage document versions.
+  
+- **Grant Acknowledgment**: Always include grant numbers: CIRA-2020-286 and KUCARS. Stay updated with the latest codes.
+  
+- **Authorship**: Discuss author order with your advisor. Authors should be ordered based on their contribution, and all advisors should be included.
+
+By adhering to these protocols, we ensure transparent collaboration and accurate representation of contributions.
 
 # Task Management in MS Planner
 
@@ -104,15 +119,7 @@ Given the multitude of collaborative documents on Overleaf, adopting a consisten
     - MSc: `[MSc Thesis <student's first name>]`.
     - Proposal: `[PhD Proposal <student's first name>]`.
 
-# Publication Protocols
 
-Publications reflect the caliber and rigor of our research. By adhering to a coherent publication protocol, we ensure the correct acknowledgment of our sponsors, clarify authorship arrangements, and maintain academic integrity:
-
-- Ensure the inclusion of grant numbers: CIRA-2020-286 and KUCARS. Update as required.
-  
-- Engage with your advisor to determine the author sequence.
-    - The sequence should reflect the magnitude of contributions.
-    - Ensure all co-advisors are included. If omitted, it implies the advisory committee needs revisiting.
 
 
 # Lab Behavior and Etiquette
