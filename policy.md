@@ -11,11 +11,17 @@ permalink: /policy
   
 - **Collaboration with Peers**: Active collaboration is crucial within the AV Lab team. Sharing insights, assisting peers, and driving the project's goals forward should be a collective endeavor.
 
-# Technical Expectations
+# Interaction Norms
+
 
 - **Advisor's Requests**: Students and staff are obligated to fulfill technical, academic, and administrative requests from the Advisor. This encompasses a range of requirements from software submissions to scientific writing and other relevant materials.
 
 - **Response Time**: When the Advisor requests materials or information, the expected response time is within 24 hours. If a particular request demands more time due to its complexity or unavailability, it is essential to communicate this to the Advisor immediately. Extensions will be granted based on the specific circumstances.
+
+- **Accurate Reporting**: Students and staff are expected to report results precisely and in a timely manner, avoiding exaggeration or misrepresentation.
+
+- **Vacation and Task Scheduling**: Students and staff should only take vacation after the completion of pending tasks and are responsible for updating the task schedule accordingly.
+
 
 # Documentation and Version Control
 
