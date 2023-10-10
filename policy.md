@@ -5,22 +5,9 @@ order: 1
 permalink: /policy
 /*show_menu: true*/
 ---
-# Work Environment and Collaboration
-
-- **Physical Presence**: All students and staff are expected to be present at the AV Lab or designated locations during KU's official working hours. This presence should align with the productivity needs and safety protocols defined by the Advisor.
-  
-- **Collaboration with Peers**: Active collaboration is crucial within the AV Lab team. Sharing insights, assisting peers, and driving the project's goals forward should be a collective endeavor.
-
-# Interaction Norms
 
 
-- **Advisor's Requests**: Students and staff are obligated to fulfill technical, academic, and administrative requests from the Advisor. This encompasses a range of requirements from software submissions to scientific writing and other relevant materials.
 
-- **Response Time**: When the Advisor requests materials or information, the expected response time is within 24 hours. If a particular request demands more time due to its complexity or unavailability, it is essential to communicate this to the Advisor immediately. Extensions will be granted based on the specific circumstances.
-
-- **Accurate Reporting**: Students and staff are expected to report results precisely and in a timely manner, avoiding exaggeration or misrepresentation.
-
-- **Vacation and Task Scheduling**: Students and staff should only take vacation after the completion of pending tasks and are responsible for updating the task schedule accordingly.
 
 
 # Documentation and Version Control
@@ -77,13 +64,13 @@ Efficient task management is crucial for a productive team. MS Planner serves as
   
   - **Active Tasks**:
     - **[Pending X]**: Emphasize dependencies (e.g., "Vendor Approval").
-    - **[Continuous]**: For perpetual tasks with no specified end date.
     - **[Behind-the-Moon]**: For tasks with an open-ended timeline.
+    - **[Warning]**: This is a warning from the supervisor (or tasks coordinator) for not updating the task. Further delays may cause formal escalation through HR and GSO.
   
 - **Task Status Order**: 
-  1. Tasks without a status.
-  2. Pending X.
-  3. Continuous.
+  1. Warning.
+  2. Tasks without a status.
+  3. Pending X.
   4. Behind-the-Moon.
   
 - **App Recommendation**: For convenience, consider the Planner mobile app.
@@ -126,8 +113,6 @@ Given the multitude of collaborative documents on Overleaf, adopting a consisten
     - Proposal: `[PhD Proposal <student's first name>]`.
 
 
-
-
 # Lab Behavior and Etiquette
 
 Maintaining a quiet and respectful environment within the AV Lab is essential for fostering concentration, productivity, and a harmonious work atmosphere. By adhering to the guidelines below, we can ensure that all members feel comfortable, valued, and respected:
@@ -148,3 +133,20 @@ Maintaining a quiet and respectful environment within the AV Lab is essential fo
 
 By committing to these guidelines, we can create an optimal working environment that fosters collaboration while respecting every individual's need for concentration and respect.
 
+
+# Work Environment and Collaboration
+
+- **Physical Presence**: All students and staff are expected to be present at the AV Lab or designated locations during KU's official working hours. This presence should align with the productivity needs and safety protocols defined by the Advisor.
+  
+- **Collaboration with Peers**: Active collaboration is crucial within the AV Lab team. Sharing insights, assisting peers, and driving the project's goals forward should be a collective endeavor.
+
+# Interaction Norms
+
+
+- **Advisor's Requests**: Students and staff are obligated to fulfill technical, academic, and administrative requests from the Advisor. This encompasses a range of requirements from software submissions to scientific writing and other relevant materials.
+
+- **Response Time**: When the Advisor requests materials or information, the expected response time is within 24 hours. If a particular request demands more time due to its complexity or unavailability, it is essential to communicate this to the Advisor immediately. Extensions will be granted based on the specific circumstances.
+
+- **Accurate Reporting**: Students and staff are expected to report results precisely and in a timely manner, avoiding exaggeration or misrepresentation.
+
+- **Vacation and Task Scheduling**: Students and staff should only take vacation after the completion of pending tasks and are responsible for updating the task schedule accordingly.
