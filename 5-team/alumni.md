@@ -21,7 +21,7 @@ Areg Karapetyan received the B.S. degree (with honours) in industrial electronic
 
 
 **Eyad Shaklab**
->Research Engineer
+>Research Engineer (April 2020 - April 2023)
 
 <img src="/assets/img/eyad.jpeg"/>
 Eyad Shaklab recieved his B.S. degree in computer science from the American University of Sharjah, UAE. He has been involved in research and development in robotics and autonomous vehicles since 2019 until April 2023. Eyad is currently a testing engineer at [Unikie](http://www.unikie.com). 
