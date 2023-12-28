@@ -10,7 +10,9 @@ show_menu: true
 **Dr. Majid Khonji**
 
 <img class="vil" src="/assets/img/majid.png" />
-Majid Khonji is an assistant professor in the EECS department at Khalifa University, UAE, a Research Affiliate with MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), USA, and leading research activities of the autonomous vehicle laboratory (www.avlab.io) at KUCARS. He received his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and PhD in Interdisciplinary Engineering from Masdar Institute, UAE, in collaboration with MIT in 2016. Previously, he was a visiting professor at MIT CSAIL, a senior R&D technologist at Dubai Electricity and Water Authority (DEWA), and an information security researcher at Emirates Advanced Investment Group (EAIG).
+Dr. Majid Khonji is an Assistant Professor in the Computer Science Department at Khalifa University (KU). He leads the research activities in the Autonomous Vehicle Laboratory at the KU Center for Autonomous Robotic Systems (KUCARS). Additionally, he is a research affiliate with the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) in the USA. Dr. Khonji earned his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and completed his Ph.D. in Interdisciplinary Engineering at Masdar Institute, in collaboration with MIT, in 2016.
+Prior to his current role, he was a visiting assistant professor at MIT's CSAIL, a senior R&D technologist at Dubai Electricity and Water Authority (DEWA), and an information security researcher at the Emirates Advanced Investment Group (EAIG).
+His research interests include Probabilistic Planning, Artificial Intelligence, Combinatorial Optimization, Autonomous Vehicles, and Electric Mobility.
 
 Email: majid.khonji(at)ku.ac.ae
 
@@ -36,14 +38,6 @@ Bilal Hassan received the Ph.D. degree in Pattern Recognition and Intelligent Sy
 <br>
 <br>
 
-**Arjun Sharma**
->Research Associate
-
-<img class="vill" src="/assets/img/arjun.jpg"/>
-Arjun is a Robotics Mechanical Engineer at Autonomous Vehicle Laboratory; He specializes in mechanisms and mechanical design of robotic systems. He graduated with an M.S. in Mechanical Engineering from Khalifa University. His research focuses on robotic systems' design, testing, and operation. Arjun has led hardware development for several novel robotic systems, including intelligent loading and unloading mechanisms, a drive-by-wire robotic system, and many more. 
-In addition, he has experience working in the international laboratory, such as the S2TS Lab for advanced microchannel heat exchangers at the University of Maryland College Park, USA. 
-
-
 
 **Mohammad Riyadh Alkharrat**
 > Researche Assistant
@@ -59,6 +53,14 @@ Riyadh received his Bachelor of Computer Engineering degree from the University 
 Murad Smreteab received his Bachelor of Science in Computer Engineering from Khalifa University with the highest honors in January 2021, and master’s degree in computer science at Khalifa University in 2023. His main areas of research are Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on pedestrian behavior prediction and safe navigation around pedestrians. Murad is a member of IEEE Eta Kappa Nu at Khalifa university since 2018 and a member of the Golden Key honor society since 2020. Outside the classroom, he occasionally participates in competitions. In 2018, he won second place in the National Huawei ICT competition in UAE and represented the UAE in the middle east ICT competition. Moreover, he won third place in capture the flag group competition in UAE. As an intern, he worked at Gamalearn as Microsoft PowerApps and flow developer. He also has experience as a teaching assistant at khalifa university working as a primary C++ lab instructor and assistant data structures lab instructor. Outside academia  he is actively involved in sports, representing Khalifa university both in football and volleyball.  In his free time he enjoys playing sports and watching movies.
 
 Email: Murad.Mebrahtu(at)ku.ac.ae
+
+**Yousef Babaa**
+> Research Visitor
+
+
+<img class="vil" src="/assets/img/Yousef_picture.jpg" /> 
+Yousef received his Bachelor of Science in Electrical Engineering - Mechatronics with merit Summa Cum Laude at the Canadian University of Dubai. As an Electrical & Robotics Engineer and Instructor at STEMA, he instructed students in engineering, programming, and robotics. Notably, he created a curriculum for a Unity 2D game design training program and supervised 30 interns. Yousef's research interests lie in autonomous and electric vehicles, and he contributed to a solar-powered electric autonomous vehicle during his graduation project. As a visiting researcher at the AV Lab, he plays a role in integrating components into the gen0 vehicle, and managing lab equipment & operations.
+
 
 
 <hr>
