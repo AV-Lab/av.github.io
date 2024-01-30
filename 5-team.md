@@ -94,6 +94,11 @@ Email: mohamed.nagy(at)ku.ac.ae
 (Student Member, IEEE) received the B.Sc. degree (Hons.) in computer and systems engineering from Minia University, Minia, Egypt, in 2016,  M.Sc in Electrical and Computer Engineering from Khalifa University of Science  and Technology, Abu Dhabi, UAE, in 2023 and he is pursuing his Ph.D degree in Electrical Engineering and Computer Science besides joining the Autonomous Vehicles Lab from Khalifa University, Abu Dhabi, UAE.  He is on a leave from 2021 till now from the college of engineering, Minia University,  Egypt, as a faculty member.  His main research interests include motion planning of autonomous vehicles,  end-to-end autonomous driving, optimization, machine learning, and intelligent transportation systems.
 
 
+**Abdelmoamen Nasser** 
+>TLDR: PhD Student; joined Spring 2024; funded under KUCARS Theme 1
+
+<img class="vil" src="/assets/img/abdelmoamen.jpg" />
+Abdelmoamen Nasser received his BSc. in Electrical Engineering from Abu Dhabi University in 2018 with a focus in power systems and renewable energy, and received his MSc. in Electrical Engineering from United Arab Emirates University in 2022 focused on control and artificial intelligence. He is currently pursuing a Ph.D. in Engineering with a robotics concentration. Simultaneous to his studies, he developed interests in web development leading to participation in the first Food Security Hackathon. Additionally, he was in the winning team at the "Youth Hackathon on the Energy Sector in the UAE" organized by the French Institute. Prior to starting his Ph.D., he worked at the Lockheed Martin Center for Innovation and Security Solutions as an A.I. and robotics intern where he gained industry specific experience and eventually leading other intern teams in development and presentation of the CISS projects to VIP guests at multiple tradeshows.
 
 **Fatima Kashwani**
 >TLDR: MSc CS; joined Fall 2022
