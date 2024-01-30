@@ -7,6 +7,16 @@ show_menu: true
 ---
 
 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/leuWJc1BwDA?si=5PHB0NEzuPpXgSQD&autoplay=1&modestbranding=1" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+<br>
+
 ## AV Planning and Reasoning
 This line of research primarily targets the optimization of planning systems in autonomous vehicles. The focus is on elevating safety measures, streamlining operational efficiency, and aligning system functions with user preferences.
 
@@ -52,3 +62,22 @@ This line of research focuses on the integration of autonomous vehicle systems i
 - Towards Optimal Last-mile Logistics with Fully-autonomous Contactless Multi-parcel Delivery Robots.
 - Online Load Scheduling in Grid-Tied Microgrids Integrated with Electric Vehicle Charging Station: Model Formulation and a Competitive Algorithm.
 
+
+
+<style>
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* Adjust this value to match video's aspect ratio */
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+</style>
