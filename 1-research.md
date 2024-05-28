@@ -41,6 +41,7 @@ This line of research is dedicated to refining perception and situational awaren
 <img src="/1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
 
 ### Publications
+- Bilal Hassan, Arjun Sharma, Nadya Abdel Madjid, Majid Khonji, Jorge Dias. "TerrainSense: Vision-Driven Mapless Navigation for Unstructured Off-Road Environments. ICRA 2024."  Yokohama. Japan.
 - [Mohamed Nagy, Majid Khonji, Jorge Dias and Sajid Javed (2023). "**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**." IEEE International Conference on Robotics and Automation (**ICRA**), London, UK.](/research/MOT) [[paper](https://arxiv.org/pdf/2302.14807.pdf)]
 - Hamad AlRemeithi, Fakhreddine Zayer, Jorge Dias, Majid Khonji (2023). “**Event Vision for Autonomous Off-Road Navigation**.” Artificial Intelligence for Robotics and Autonomous Systems Applications. Studies in Computational Intelligence, vol 1093. Springer, Cham. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-28715-2_8)]
 - [Mustofa Basri, Areg Karapetyan, Bilal Hassan, Majid Khonji, Jorge Dias (2022). “**A Hybrid Deep Learning Approach for Vehicle Wheel Slip Prediction in Off-Road Environments**.” IEEE international symposium on Robotic and Sensors Environments (**ROSE**). Abu Dhabi, UAE.](/research/offroad/) [[paper](https://ieeexplore.ieee.org/document/9977432)]
