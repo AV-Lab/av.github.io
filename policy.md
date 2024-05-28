@@ -36,7 +36,7 @@ Our publications reflect the quality and dedication of our research. Following t
 
 - **Collaborative Editing**: Prior to publication, co-authors must have access to the live version of the LaTeX source code (either on Overleaf or similar platforms) at least two weeks in advance. Instead of sharing only a backup, provide the live, editable version. Use Overleaf's built-in version control to manage document versions.
   
-- **Grant Acknowledgment**: Always include grant numbers: CIRA-2020-286 and KUCARS. Stay updated with the latest codes.
+- **Grant Acknowledgment**: Always include grant numbers: RIG-2023-117 and KUCARS. Stay updated with the latest codes.
   
 - **Authorship**: Discuss author order with your advisor. Authors should be ordered based on their contribution, and all advisors should be included.
 
