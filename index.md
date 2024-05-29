@@ -17,10 +17,10 @@ layout: home
 <div class="left-column">
   <p class="sum">
   <img src="/assets/img/logo.png" width="90px" class="logo"/>
-    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab (AV-Lab), we're dedicated to pioneering research on autonomous vehicle technology, focusing on the safe operation, seamless integration into smart urban ecosystems, and the alignment of the AI systems with passenger needs.
+    Our research at <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab (AV-Lab) focuses on advancing autonomous vehicle technology with an emphasis on safe operation, seamless integration into smart urban ecosystems, and aligning AI systems with passenger needs. 
   </p>
   <div class="questions">
-  <p>Our research revolves around the following questions:</p>
+  <p>Our key research questions include:</p>
   <ul>
     <li>What strategies can be adopted to guarantee safety within the vital components of the autonomous vehicle's decision-making process?</li>
     <li>How can multi-agent autonomous vehicles effectively share sensory data and decision-making information, along with inherent uncertainties, by utilizing Vehicle-to-Everything (V2X) technology?</li>
@@ -59,20 +59,7 @@ layout: home
   overflow: hidden;
 }
 
-.video-background {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-}
 
-.video-background video {
-  min-width: 100%;
-  min-height: 100%;
-  object-fit: cover;
-}
 
 .left-column,
 .right-column {
