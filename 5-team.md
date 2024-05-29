@@ -43,8 +43,7 @@ Bilal Hassan received the Ph.D. degree in Pattern Recognition and Intelligent Sy
 > Researche Assistant
 
 <img class="vill" src="/assets/img/riyadh.png"/>
-Riyadh received his Bachelor of Computer Engineering degree from the University of Wollongong in Dubai and is dedicated to advancing the fields of autonomous vehicles, robotics and wireless communications. He is currently working on the development of an autonomous shuttle, this project involves the integration of risk aware planning and perception technologies to create a self-driving vehicle. His previous research work lies in the field of LoRa wireless communication resources optimization and improving channel allocation.
-
+Riyadh is a researcher in the autonomous vehicle lab at Khalifa University, specializing in robotics simulations and system integrations. He is dedicated to advancing the fields of autonomous vehicles and robotics. He is currently working on the development of an autonomous shuttle, focusing on components such as control, localization, planning, and perception to create a self-driving vehicle. His experience includes working on the implementation of autonomous navigation stacks on various UGVs, and the development of a virtual passengers' assistant in autonomous vehicles. Furthermore, Riyadh received his Bachelor of Computer Engineering degree from the University of Wollongong in Dubai.
 
 **Murad Mebrahtu**
 >Research Associate
