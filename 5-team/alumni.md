@@ -5,6 +5,11 @@ permalink: /team/alumni
 ---
 
 ## Staff
+**Dr. Bilal Hassan**
+>Postdoctoral Fellow (May 2023 - May 2024)
+
+<img src="/assets/img/BH.png"/>
+Bilal Hassan received the Ph.D. degree in Pattern Recognition and Intelligent Systems at Beihang University, China, in 2022. He is currently a Postdoctoral Fellow at Khalifa University, UAE. His research interest lies in computer vision, medical imaging, wireless communication, and related applications.
 
 **Arjun Sharma**
 >Research Associate (Jan 2021 - Nov 2023)
@@ -64,8 +69,13 @@ Riyadh received his Bachelor of Computer Engineering degree from the University 
 
 ## Students
 
+**Fatima Kashwani**
+>MSc CS (Fall 2022 - Spring 2024)
 
+<img src="/assets/img/Fatima.jpg">
+Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with honors at Khalifa University in 2021. She is currently pursuing her Master’s degree in Computer Science at Khalifa University. Her main research areas are artificial intelligence, machine learning, and autonomous vehicles. Her thesis project is focused on teleoperation of unmanned vehicles.
 
+<br>
   
 
 **Awet Araia**
