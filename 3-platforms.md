@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Platforms
-permalink: /platforms/
 show_menu: true
 ---
 The AV Lab has a fleet of autonomous vehicles, consisting of two passenger vehicles for last-mile transportation and a retrofitted Nissan Leaf. These vehicles are equipped with LiDAR sensors and multiple cameras, allowing for advanced sensing and perception capabilities. We are excited to collaborate with researchers in this field and welcome any inquiries about research partnerships. Please feel free to reach out to us to explore opportunities for collaboration.

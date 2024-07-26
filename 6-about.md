@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 show_menu: true
 ---
 AV-lab is part of  [KU Center for Autonomous Robotic Systems (KUCARS)](https://www.ku.ac.ae/kucars) focused on advancing autonomous and robotic technologies through four main themes and nine integrated projects over three years. The themes include Autonomous Cars, Aerial Robotics, Marine Robotics, and Industrial Robotics.
