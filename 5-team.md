@@ -49,7 +49,7 @@ Yousef received his Bachelor of Science in Electrical Engineering - Mechatronics
 **Nadim Khneisser**
 >Visiting Researcher; funded under RIG-2023-117 Project (5/62024 - 27/8/2024)
 
-Nadim is a BSc student of Robotics from [Construcctor University](https://constructor.university/).
+Nadim is a BSc student of Robotics from [Constructor University](https://constructor.university/).
 
 ---
 # Graduate Students
