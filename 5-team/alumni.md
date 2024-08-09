@@ -1,7 +1,6 @@
 ---
 title: Alumni
 layout: page
-permalink: /team/alumni
 ---
 
 ## Staff

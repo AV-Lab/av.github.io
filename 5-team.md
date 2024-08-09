@@ -25,6 +25,15 @@ Email: jorge.dias(at)ku.ac.ae
 ----
 
 # Research Staff
+
+**Dr. Sumbal Malik**
+> Postdoctoral Fellow
+
+![sumbal](assets/img/sumbal.png)
+Dr. Sumbal Malik is currently a Postdoctoral Fellow at Khalifa University, where she focuses on multiagent coordination. She received her PhD in Computer Science from United Arab Emirates University in 2024. Her research interests encompass a wide range of topics, including collaborative autonomous driving, transportation, and machine learning.
+Throughout her PhD research, Sumbal authored over 20 articles in reputable journals and conferences, including publications in journals ranked in the top 1%, 5%, 10%, and 25%, demonstrating the high impact of her work.
+Before joining UAEU, Sumbal earned a Master of Science degree in Computer Science from the University of Gujrat, Pakistan, where she was awarded a Gold Medal for her outstanding performance. During her master's studies, she specialized in natural language processing and biomedical information retrieval for clinicians in healthcare settings, honing her expertise in these domains.
+
 **Mohammad Riyadh Alkharrat**
 > Researche Assistant
 
@@ -86,7 +95,7 @@ Email: mohamed.nagy(at)ku.ac.ae
 Abdelmoamen Nasser received his BSc. in Electrical Engineering from Abu Dhabi University in 2018 with a focus in power systems and renewable energy, and received his MSc. in Electrical Engineering from United Arab Emirates University in 2022 focused on control and artificial intelligence. He is currently pursuing a Ph.D. in Engineering with a robotics concentration. Simultaneous to his studies, he developed interests in web development leading to participation in the first Food Security Hackathon. Additionally, he was in the winning team at the "Youth Hackathon on the Energy Sector in the UAE" organized by the French Institute. Prior to starting his Ph.D., he worked at the Lockheed Martin Center for Innovation and Security Solutions as an A.I. and robotics intern where he gained industry specific experience and eventually leading other intern teams in development and presentation of the CISS projects to VIP guests at multiple tradeshows.
 
 
-**Many thanks to [AV Lab Alumni](/team/alumni)** for their great contributions.
+**Many thanks to [AV Lab Alumni](5-team/alumni)** for their great contributions.
 
 
 <style>
