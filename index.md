@@ -16,15 +16,15 @@ layout: home
 </div> -->
 <div class="left-column">
   <p class="sum">
-  <img src="/assets/img/logo.png" width="90px" class="logo"/>
-    Our research at <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab (AV-Lab) focuses on advancing autonomous vehicle technology with an emphasis on safe operation, seamless integration into smart urban ecosystems, and aligning AI systems with passenger needs. 
+  <!--<img src="/assets/img/logo.png" width="90px" class="logo"/>-->
+    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab, our research focuses on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring AI systems are aligned with passenger needs.
   </p>
   <div class="questions">
-  <p>Our key research questions include:</p>
+  <p>Our key research areas include:</p>
   <ul>
-    <li>What strategies can be adopted to guarantee safety within the vital components of the autonomous vehicle's decision-making process?</li>
-    <li>How can multi-agent autonomous vehicles effectively share sensory data and decision-making information, along with inherent uncertainties, by utilizing Vehicle-to-Everything (V2X) technology?</li>
-    <li> How can we design decision-making strategies that offer robust safety assurances through rigorous theoretical validation?</li>
+    <li>Developing strategies to enhance the safety of key components in AV decision-making.</li>
+    <li>Enabling multi-agent vehicles to safely and efficiently share perception and decision-making data, including epistemic and aleatoric uncertainties, through Vehicle-to-Everything (V2X) industry standards.</li>
+    <li>Designing decision-making frameworks that deliver strong safety assurances, grounded in rigorous theoretical validation.</li>
   </ul>
   </div>
 
@@ -95,7 +95,8 @@ layout: home
     color:#838996;
     background-color:#f5f5f5;
     /*background-color: #101357;*/
-    padding: 15px;
+    padding-top: 25px;
+    padding-bottom: 28px;
     padding-left: 20px;
     padding-right: 25px;
 }
@@ -107,10 +108,10 @@ layout: home
   background-color:#a28089; /* #f9fbff ;*/
   /*color:#566968 ;*/
   color:#f9fbff;
-  padding-top: 8px;
-  padding-right:12px;
-  padding-left:12px;
-  padding-bottom:8px;
+  padding-top: 20px;
+  padding-bottom:20px;
+  padding-right:10px;
+  padding-left:10px;
   
   padding-right: 25px;
 }

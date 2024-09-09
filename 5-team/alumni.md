@@ -50,6 +50,12 @@ Eyad Shaklab recieved his B.S. degree in computer science from the American Univ
 > Postdoc: funded under KUCARS Theme 1 (Jan 2020 – Dec 2020)
 
 ## Visitors
+**Nadim Khneisser**
+>Visiting Researcher; funded under RIG-2023-117 Project (5/62024 - 27/8/2024)
+
+![nadim-khneisser](/assets/img/nadim-khneisser.png)
+Second-year student pursuing a B.Sc. in Robotics and Intelligent Systems at Constructor University Bremen (formerly Jacobs University) looking to obtain experience in the field. Held in high regard by the professors for being a disciplined and hardworking team player that strives in high pressure environments. Passionate about AI and robotics, with a keen interest in their potential uses in everyday life.
+
 **Dr. Thanh Nguyen Trung**
 >Visiting Researcher: funded under CIRA-2020-286 Project (Nov 2022 – May 2023)
 

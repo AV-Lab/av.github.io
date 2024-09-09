@@ -55,13 +55,6 @@ Email: Murad.Mebrahtu(at)ku.ac.ae
 Yousef received his Bachelor of Science in Electrical Engineering - Mechatronics with merit Summa Cum Laude at the Canadian University of Dubai. As an Electrical & Robotics Engineer and Instructor at STEMA, he instructed students in engineering, programming, and robotics. Notably, he created a curriculum for a Unity 2D game design training program and supervised 30 interns. Yousef's research interests lie in autonomous and electric vehicles, and he contributed to a solar-powered electric autonomous vehicle during his graduation project. As a visiting researcher at the AV Lab, he plays a role in integrating components into the gen0 vehicle, and managing lab equipment & operations.
 
 # Visitors
-**Nadim Khneisser**
->Visiting Researcher; funded under RIG-2023-117 Project (5/62024 - 27/8/2024)
-
-![](assets/img/nadim-khneisser.png)
-
-Second-year student pursuing a B.Sc. in Robotics and Intelligent Systems at Constructor University Bremen (formerly Jacobs University) looking to obtain experience in the field. Held in high regard by the professors for being a disciplined and hardworking team player that strives in high pressure environments. Passionate about AI and robotics, with a keen interest in their potential uses in everyday life.
-
 ---
 # Graduate Students
 
