@@ -23,9 +23,10 @@ layout: home
   <p>Our key research areas include:</p>
   <ul>
     <li>Developing strategies to enhance the safety of key components in AV decision-making.</li>
-    <li>Enabling multi-agent vehicles to safely and efficiently share perception and decision-making data, including epistemic and aleatoric uncertainties, through Vehicle-to-Everything (V2X) industry standards.</li>
+    <li>Enabling multi-agent vehicles to safely and efficiently share perception and decision-making data, including epistemic and aleatoric uncertainties, through V2X industry standards.</li>
     <li>Designing decision-making frameworks that deliver strong safety assurances, grounded in rigorous theoretical validation.</li>
   </ul>
+	<a href="https://mindshield.ai"><img width="220" style="float: right; margin-top:-35px" src="assets/img/mindshield-logo.gif"/></a>
   </div>
 
 
@@ -35,7 +36,6 @@ layout: home
       <img class='banner'/>
   </div>
 </div>
-
 <style>
 .av-title{
      margin-bottom:-20px;
@@ -95,8 +95,8 @@ layout: home
     color:#838996;
     background-color:#f5f5f5;
     /*background-color: #101357;*/
-    padding-top: 25px;
-    padding-bottom: 28px;
+	padding-top: 20px;
+	padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 25px;
 }
@@ -109,7 +109,7 @@ layout: home
   /*color:#566968 ;*/
   color:#f9fbff;
   padding-top: 20px;
-  padding-bottom:20px;
+  padding-bottom:0px;
   padding-right:10px;
   padding-left:10px;
   
