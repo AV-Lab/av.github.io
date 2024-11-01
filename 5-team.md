@@ -49,12 +49,23 @@ Murad Smreteab received his Bachelor of Science in Computer Engineering from Kha
 Email: Murad.Mebrahtu(at)ku.ac.ae
 
 **Yousef Babaa**
-> Research Visitor
+> Research Assistant
 
 ![Yousef_picture](assets/img/Yousef_picture.jpg)
 Yousef received his Bachelor of Science in Electrical Engineering - Mechatronics with merit Summa Cum Laude at the Canadian University of Dubai. As an Electrical & Robotics Engineer and Instructor at STEMA, he instructed students in engineering, programming, and robotics. Notably, he created a curriculum for a Unity 2D game design training program and supervised 30 interns. Yousef's research interests lie in autonomous and electric vehicles, and he contributed to a solar-powered electric autonomous vehicle during his graduation project. As a visiting researcher at the AV Lab, he plays a role in integrating components into the gen0 vehicle, and managing lab equipment & operations.
 
 # Visitors
+
+**Syed Abbas Hussain**
+>Visiting Researcher
+
+![](assets/img/syed-abbas-pic.png)
+I’m a passionate software developer with a strong background in creating mobile apps. I recently graduated with top honors in Computer System Engineering from Middlesex University Dubai, earning the prestigious Golden Visa for academic excellence.  
+  
+I recently transitioned from my role as a Software Development Coordinator at Bydaar to my current position as a Visiting Researcher in the Computer Science field at Khalifa University. At Bydaar, I was instrumental in developing a React Native mobile app, managing e-commerce operations on Shopify, and ensuring seamless integration of software applications with autonomous vehicle systems.  
+  
+At Khalifa University, I am focused on developing and enhancing software applications for autonomous vehicles, creating intuitive user interfaces, and ensuring seamless integration with vehicle systems. I am dedicated to continuously improving my skills and staying updated with the latest trends and technologies.  
+  
 ---
 # Graduate Students
 
