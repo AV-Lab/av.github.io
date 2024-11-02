@@ -3,20 +3,33 @@
 
 layout: home
 ---
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+</head>
 
-<h1 class='av-title'>Autonomous Vehicle Lab
-</h1>
+<div class="container">
+<div class="header-container"> 
+    <h1 class='av-title' class='typewriter'> Autonomous Vehicle Lab</h1> 
+    <div class="devops-icon" > 
+      <a href="3-devops" >
+      <img src="assets/img/devops icon.gif"/>
+      </a>
+    </div> 
+    <div class="knowledge-base-icon"> 
+      <a href="https://kb.avlab.io" target="_blank">
+      <video autoplay muted loop >
+        <source src="assets/kb-video.mp4" type="video/mp4">
+      </video>
+      </a>
+    </div> 
+</div>
 <img class="small-banner"/> 
-<div class="wrapper2">
-<!-- <div class="video-background">
-  <video autoplay loop muted playsinline preload="auto">
-    <source src="/assets/bg-anim.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div> -->
+<div class="columns">
 <div class="left-column">
   <p class="sum">
-  <!--<img src="/assets/img/logo.png" width="90px" class="logo"/>-->
     At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab, our research focuses on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring AI systems are aligned with passenger needs.
   </p>
   <div class="questions">
@@ -28,44 +41,75 @@ layout: home
   </ul>
 	<a href="https://mindshield.ai"><img width="220" style="float: right; margin-top:-35px; margin-right:-18px" src="assets/img/mindshield-logo.gif"/></a>
   </div>
-
-
   
 </div>
   <div class="right-column">
-      <img class='banner'/>
+    <a href="1-research"><img src="/assets/banner-anim.gif"/></a>
   </div>
 </div>
+</div>
+
+
+
 <style>
-.av-title{
-    margin-bottom:-20px;
-    margin-top: -15px;
-    font-size: 40.5px;   
-}
-.logo{
-  float: left;
-  padding-right:5px;
-  margin-top: -11px;
-  margin-left: -11px;
-}
-.logo:hover{
-  filter: hue-rotate(180deg);
-}
-.wrapper2 {
-  display: flex;
-  justify-content: space-between;
-  align-items: stretch;
+
+.container {
+  display:flex;
+  flex-direction: column; /* Ensure the container stacks its children vertically */
   position: relative;
-  overflow: hidden;
+  top:-28px;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  height: 100%; /* Set height to 100% of the parent element */
+  margin-bottom: -2px;
+}
+.knowledge-base-icon {
+  cursor: pointer; /* Changes cursor to indicate the icon is clickable */
+  border: solid 1.5px white;
+}
+.devops-icon{
+  cursor: pointer; /* Changes cursor to indicate the icon is clickable */
+}
+.devops-icon img {
+  width: 92px;
+}
+.knowledge-base-icon video {
+  width: 200px;
+  margin-bottom: -8px;
+  z-index: 1;
 }
 
+.devops-icon:hover{
+  animation: moveL .5s forwards; /* Initial animation */
+  transition: transform 1s ease-in-out; /* Smooth transition for transform property */
+  opacity:.8;
+}
+.knowledge-base-icon:hover{
+  animation: moveU .3s forwards; /* Initial animation */
+  opacity:.8;
+}
+
+@keyframes moveL {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-10px); }
+}
+@keyframes moveU {
+  0% { transform: translateZ(0px); }
+  100% { transform: scale(1.05); }
+}
+
+
+.columns {
+  display: flex;
+}
 
 
 .left-column,
 .right-column {
   display: flex;
   flex-direction: column;
-  position: relative;
   height: 100%; /* Add this line */
   hyphens: auto;
   text-align: justify;
@@ -78,7 +122,9 @@ layout: home
 
 .right-column {
   flex: 40%;
-  /* margin-top:-65px; */
+}
+.right-column img {
+  width: 100%;
 }
 
 .left-column ul {
@@ -90,7 +136,6 @@ layout: home
   padding-bottom: 10px;
 }
 .sum{
-    margin-top: 15px;
     margin-bottom: 0px;
     color:#838996;
     background-color:#f5f5f5;
@@ -99,6 +144,10 @@ layout: home
 	padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 25px;
+}
+.right-column:hover{
+    opacity:0.8;
+  animation: moveU .3s forwards; /* Initial animation */
 }
 
 .sum:hover{
@@ -109,11 +158,11 @@ layout: home
   /*color:#566968 ;*/
   color:#f9fbff;
   padding-top: 20px;
-  padding-bottom:0px;
+  padding-bottom:1px;
   padding-right:10px;
   padding-left:10px;
-  
   padding-right: 25px;
+  margin:0px;
 }
 .questions:hover{
   opacity: 80%;
@@ -122,58 +171,73 @@ layout: home
 }
 
 
-.banner{
-    content: url("/assets/banner-anim.gif");
-    width:100%; 
-    margin:0px;
-    margin-top:13px;
-}
 
-.banner:hover{
-    opacity:0.8;
-}
-.video{
-    margin:0;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    width:100%; 
-}
-.ads:hover{
-    opacity:0.8;
+
+.small-banner{
+  display: none;
+  margin: 0;
 }
 
 
 a{
     color: black;
 }
-.small-banner{
-  display: none;
-  margin: 0;
-  padding: 0;
+
+.typewriter{
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin-right: auto;
+  margin-bottom: 0px;
+  display: block;
+  font-size: clamp(1.5rem, 2vw, 2rem); /* Font size scales between 1rem and 3rem based on viewport width */
+  font-family: "IBM Plex Mono", monospace;
+  animation: 
+    /*typing 3.5s steps(40, end),*/
+    blink-caret .75s step-end infinite;
 }
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+
+
+
 
 @media (max-width: 600px) {
   .wrapper2 {
     display: flex;
-    justify-content: space-between;
-    position: relative;
-    z-index: 1;
   }
 
   .right-column {
     width: 100%;
-  }
-  .right-column {
     display: none;
   }
 
   .small-banner{
-      content: url("/assets/img/banner-small.png");
-      margin-top: 15px;
-      display: inline-block;
+      display: block;
+      content: url("assets/img/banner-small.png");
   }
-
+  .knowledge-base-icon img {
+    display: none;
+  } 
+  .devops-icon {
+    display: none;
+  }
+  .av-title{
+    margin-bottom:10px;
+    margin-top: 0px;
+  }
 }
+
 
 
 
