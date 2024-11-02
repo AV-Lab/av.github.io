@@ -78,7 +78,6 @@ layout: home
 .knowledge-base-icon video {
   width: 200px;
   margin-bottom: -8px;
-  z-index: 1;
 }
 
 .devops-icon:hover{
@@ -122,6 +121,7 @@ layout: home
 
 .right-column {
   flex: 40%;
+  min-width: 295.5px;
 }
 .right-column img {
   width: 100%;
@@ -175,6 +175,7 @@ layout: home
 
 .small-banner{
   display: none;
+  z-index: -1;
   margin: 0;
 }
 
@@ -212,8 +213,8 @@ a{
 
 
 
-@media (max-width: 600px) {
-  .wrapper2 {
+@media (max-width: 650px) {
+  .columns {
     display: flex;
   }
 
@@ -225,16 +226,19 @@ a{
   .small-banner{
       display: block;
       content: url("assets/img/banner-small.png");
+      z-index: -1;
   }
-  .knowledge-base-icon img {
+  .knowledge-base-icon{
     display: none;
   } 
   .devops-icon {
     display: none;
   }
-  .av-title{
-    margin-bottom:10px;
-    margin-top: 0px;
+  .type-writer{
+    display: none;
+  }
+  .container{
+    z-index: -1;
   }
 }
 
