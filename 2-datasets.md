@@ -3,7 +3,7 @@ title: Datasets
 layout: page
 show_menu: true
 ---
-# [Road-UAE Dataset](https://avlab.io/road-uae/)
+# [Road-UAE Dataset](https://avlab.io/emt-dataset/)
 ROAD-UAE is a richly annotated dataset containing detailed semantic annotations for road agents and events. With 57 minutes of continuous footage, each video segment lasts between 2.5 to 3 minutes. The dataset includes heterogenous annotations for three main agent categories: people (pedestrians and cyclists), vehicles (divided into six classes), and traffic lights. It captures the unique road topology and traffic conditions of the Gulf Region, offering consistent tracking IDs for all road agents. Additionally, it provides action annotations as "action tubes" and road event detections labeled as triplets (Agent, Action, Location) at the frame level.
 
 ![](assets/img/road-uae.png)
