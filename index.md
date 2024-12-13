@@ -30,7 +30,7 @@ layout: home
 <div class="columns">
 <div class="left-column">
   <p class="sum">
-    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab, our research focuses on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring AI systems are aligned with passenger needs.
+    At <a href="https://ku.ac.ae">Khalifa University's</a> Autonomous Vehicle Lab, we focus on advancing autonomous vehicle technology, prioritizing safety, seamless integration into smart urban environments, and ensuring the autonomy stack is aligned with human needs.
   </p>
   <div class="questions">
   <p>Our key research areas include:</p>
